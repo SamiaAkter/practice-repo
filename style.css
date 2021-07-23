@@ -15,6 +15,21 @@ h1 {
     font-size: 50px;
 }
 
+.link {
+    text-decoration: none;
+    background-color: black;
+    border: 0px;
+    color: darkgray;
+    font-weight: 900;
+    font-size: 20px;
+    padding: 10px 30px;
+    border-radius: 7%;
+    -webkit-border-radius: 7%;
+    -moz-border-radius: 7%;
+    -ms-border-radius: 7%;
+    -o-border-radius: 7%;
+}
+
 p {
     font-size: 30px;
 }
