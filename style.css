@@ -1,0 +1,28 @@
+.flexible-area {
+    display: flex;
+    padding-left: 3%;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 100%
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+}
+
+span {
+    color: red;
+}
+
+h3 {
+    font-size: 30px;
+}
